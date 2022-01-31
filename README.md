@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Da Sie Roger(@Roomdada), web developer
+- 👋 Hi, I’m Da Sie Roger, web developer
 - 👀 I'm interested in new technologies
 - 🌱 I’m currently learning ...
 - 💞️ I master php, python intermediate level, javascript technologies and I have a good knowledge of the github tool and good practices in software development
