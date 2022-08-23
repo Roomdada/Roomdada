@@ -1,4 +1,24 @@
-- 👋 Bonjour, je suis Da Sié Roger, Developpeur et formateur
+## Hi there 👋
 
-- 💞️ Mes technologies :  PHP, python, javascript
+### I'm a Full Stack Developer.
+
+#### My technologies
+
+##### Backend
+
+- PHP(Native, Laravel, Symfony)
+- Python(Flask, Django)
+- Javascript(NodeJS).
+
+##### Frontend
+
+- Javascript
+- HTML/CSS
+- Bootstrap & TailwindCss
+
+#### Tools
+
+- Docker
+- Git/Github
+- Trello
 
