@@ -10,17 +10,13 @@
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODAxOGUwcXFrMzVycTYzNWNhMGswaGFraDBqc2tiZnNiMXM1MDk3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const roomdada = {
+  year_experience: 4,
+  languages: [Javascript, Typescript, HTML, CSS, PHP ],
+  frameworks : [Laravel, Symfony, AdonisJs, Nest, Nuxt, ReactJs, VueJs],
+  tools: [Docker, Cleavr, Github, Git, Jira, Trello],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 
