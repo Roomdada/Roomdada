@@ -3,7 +3,7 @@
 <p><em>Technical Support and Developer at <a href="http://www.asacitechnologies.com">Asaci Technologies</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: Roger DA](https://img.shields.io/badge/-da-sie-roger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasieroger/)](https://www.linkedin.com/in/dasieroger/)
+[![Linkedin: Roger DA](https://img.shields.io/badge/-roger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dasieroger/)](https://www.linkedin.com/in/dasieroger/)
 [![GitHub Roger DA](https://img.shields.io/github/followers/roomdada?label=follow&style=social)](https://github.com/roomdada)
 
 
