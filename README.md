@@ -16,7 +16,7 @@ const roomdada = {
   frameworks : [Laravel, Symfony, AdonisJs, Nest, Nuxt, ReactJs, VueJs],
   tools: [Docker, Cleavr, Github, Git, Jira, Trello],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "Explore and master backend and frontend frameworks to create modern, interactive web applications"
 }
 ```
 
